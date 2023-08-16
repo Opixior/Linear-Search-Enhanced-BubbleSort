@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Linear search - 03.07.2023 - SF", "Linear search - 03.07.2023 - SF\Linear search - 03.07.2023 - SF.pyproj", "{8CB2DD54-3663-4AD8-BD04-97B433A3FE90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8CB2DD54-3663-4AD8-BD04-97B433A3FE90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CB2DD54-3663-4AD8-BD04-97B433A3FE90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D1643E11-EE20-49B2-BBB0-F79E3579B79B}
+	EndGlobalSection
+EndGlobal
